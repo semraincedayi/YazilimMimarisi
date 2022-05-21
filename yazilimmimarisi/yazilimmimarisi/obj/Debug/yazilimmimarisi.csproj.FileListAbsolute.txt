@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\yazilimmimarisi\yazilimmimarisi\bin\Debug\yazilimmimarisi.exe.config
+C:\Users\Lenovo\source\repos\yazilimmimarisi\yazilimmimarisi\bin\Debug\yazilimmimarisi.exe
+C:\Users\Lenovo\source\repos\yazilimmimarisi\yazilimmimarisi\bin\Debug\yazilimmimarisi.pdb
+C:\Users\Lenovo\source\repos\yazilimmimarisi\yazilimmimarisi\obj\Debug\yazilimmimarisi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\yazilimmimarisi\yazilimmimarisi\obj\Debug\yazilimmimarisi.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\yazilimmimarisi\yazilimmimarisi\obj\Debug\yazilimmimarisi.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\yazilimmimarisi\yazilimmimarisi\obj\Debug\yazilimmimarisi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\yazilimmimarisi\yazilimmimarisi\obj\Debug\yazilimmimarisi.exe
+C:\Users\Lenovo\source\repos\yazilimmimarisi\yazilimmimarisi\obj\Debug\yazilimmimarisi.pdb
